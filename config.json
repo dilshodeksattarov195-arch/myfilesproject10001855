@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpncrypt",
+        "uuid": 13970005,
+        "checksum": "ydvzdd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
